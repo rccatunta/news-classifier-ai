@@ -1,0 +1,33 @@
+PAGINA SIETE
+rascacielos = entretenimiento
+planeta = mundial
+campeones = deportes
+gente = sociedad
+seguridad = seguridad
+ideas = opinion
+cultura = cultura
+sociedad = sociedad
+inf = SE EVITA
+opinion = opinion
+publicaciones = SE EVITA
+economia = economia
+miradas = mundial
+nacional = nacional
+
+LA RAZON
+extra=SE EVITA
+economia = economia
+seguridad-ciudadana = seguridad
+nacional = nacional
+voces = opinion
+marcas = deportes
+escape = cultura
+la-revista = entretenimiento
+tendencias = SE EVITA
+financiero = economia
+ciudades = sociedad
+mia = entretenimiento
+lr-article = SE EVITA
+politico = nacional
+mundo = mundial
+sociedad = sociedad
